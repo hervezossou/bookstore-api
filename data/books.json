@@ -1,0 +1,102 @@
+[
+    {
+      "book_id": 1,
+      "title": "Le Petit Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "genre": "Roman",
+      "isbn13": "9782070360007",
+      "publication_year": 1943,
+      "price": 12.99,
+      "in_stock": true
+    },
+    {
+      "book_id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Science-fiction",
+      "isbn13": "9780451524935",
+      "publication_year": 1949,
+      "price": 9.99,
+      "in_stock": true
+    },
+    {
+      "book_id": 3,
+      "title": "Le Seigneur des anneaux : La Communauté de l'anneau",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "isbn13": "9780261102350",
+      "publication_year": 1954,
+      "price": 15.99,
+      "in_stock": true
+    },
+    {
+      "book_id": 4,
+      "title": "Harry Potter à l'école des sorciers",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "isbn13": "9782070517050",
+      "publication_year": 1997,
+      "price": 14.99,
+      "in_stock": true
+    },
+    {
+      "book_id": 5,
+      "title": "Le Nom de la rose",
+      "author": "Umberto Eco",
+      "genre": "Roman policier historique",
+      "isbn13": "9782253057455",
+      "publication_year": 1980,
+      "price": 18.99,
+      "in_stock": true
+    },
+    {
+      "book_id": 6,
+      "title": "Le Parfum",
+      "author": "Patrick Süskind",
+      "genre": "Roman historique",
+      "isbn13": "9782070380501",
+      "publication_year": 1985,
+      "price": 13.99,
+      "in_stock": true
+    },
+    {
+      "book_id": 7,
+      "title": "Cinquante nuances de Grey",
+      "author": "E.L. James",
+      "genre": "Romance",
+      "isbn13": "9782253090509",
+      "publication_year": 2011,
+      "price": 12.99,
+      "in_stock": true
+    },
+    {
+      "book_id": 8,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Roman d'aventures",
+      "isbn13": "9782253058373",
+      "publication_year": 1851,
+      "price": 16.99,
+      "in_stock": true
+    },
+    {
+      "book_id": 9,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "genre": "Roman historique",
+      "isbn13": "9782253056994",
+      "publication_year": 1862,
+      "price": 19.99,
+      "in_stock": true
+    },
+    {
+      "book_id": 10,
+      "title": "Le Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "isbn13": "9780261102367",
+      "publication_year": 1937,
+      "price": 14.99,
+      "in_stock": true
+    }
+]
