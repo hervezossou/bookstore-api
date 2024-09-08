@@ -30,9 +30,8 @@ This project is a simple FastAPI application designed to manage a bookstore. It 
 pip install -r requirements.txt
 
 4. **Running the application locally**
-```bash
-uvicorn app.main:app --reload
 
+uvicorn app.main:app --reload
 
 5. **Using the API**
 
