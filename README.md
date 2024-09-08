@@ -35,7 +35,7 @@ uvicorn app.main:app --reload
 
 5. **Using the API**
 
-***Get a book by ID/author/genre/***
+You can Get a book by ID/author/genre/
 
 ```
 curl http://127.0.0.1:8000/books 
