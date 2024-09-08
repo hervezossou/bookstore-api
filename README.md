@@ -26,8 +26,8 @@ This project is a simple FastAPI application designed to manage a bookstore. It 
     source venv/bin/activate  # On Linux/macOS
 
 3. **Install dependencies**
-
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 4. **Running the application locally**
     ```bash
