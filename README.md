@@ -21,15 +21,18 @@ This project is a simple FastAPI application designed to manage a bookstore. It 
 
 
 2. **Create a virtual environment (recommended)**
+
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Linux/macOS
 
 3. **Install dependencies**
+
     ```bash
     pip install -r requirements.txt
 
 4. **Running the application locally**
+
     ```bash
     uvicorn app.main:app --reload
 
