@@ -38,7 +38,7 @@ This project is a simple FastAPI application designed to manage a bookstore. It 
 
 5. **Using the API**
 
-    You can Get a book by ID/author/genre/***
+    You can get a book by ID/author/genre/***
 
     ```
     curl http://127.0.0.1:8000/books 
