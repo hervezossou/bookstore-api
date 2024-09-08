@@ -26,7 +26,7 @@ This project is a simple FastAPI application designed to manage a bookstore. It 
     source venv/bin/activate  # On Linux/macOS
 
 3. **Install dependencies**
-```bash
+
 pip install -r requirements.txt
 
 4. **Running the application locally**
@@ -35,7 +35,7 @@ uvicorn app.main:app --reload
 
 5. **Using the API**
 
-You can Get a book by ID/author/genre/
+You can Get a book by ID/author/genre/***
 
 ```
 curl http://127.0.0.1:8000/books 
