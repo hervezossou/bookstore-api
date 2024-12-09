@@ -17,7 +17,7 @@ This project is a simple FastAPI application designed to manage a bookstore. It 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/hervenzoghe/bookstore-api.git
+   git clone https://github.com/hervezossou/bookstore-api.git
 
 
 2. **Create a virtual environment (recommended)**
